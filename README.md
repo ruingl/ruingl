@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hercai](https://github.com/ruingl/hercai-goatbot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ruingl?tab=repositories](https://github.com/ruingl?tab=repositories)
+- 👨‍💻 All of my projects are available at [ruihq](https://github.com/ruihq?tab=repositories)
 
 - 📫 How to reach me **ruireogo@gmail.com**
 
