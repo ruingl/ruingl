@@ -1,4 +1,4 @@
-# Rui Reogo @ruingl
+# @ruingl
 
 nothing’s new here, why ’ya checkin?
 
