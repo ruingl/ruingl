@@ -1,6 +1,6 @@
-# Rui Reogo (@ruingl)
+# Rui Reogo @ruingl
 
-Welcome to my account :P
+nothing’s new here, why ’ya checkin?
 
 ## Socials:
 
