@@ -1,0 +1,25 @@
+name: lain
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update_time_file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: lain
+        run: |
+          echo "lain: $(date)" > time.txt
+
+      - name: lain
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add time.txt
+          git commit -m "Update time file"
+          git push
