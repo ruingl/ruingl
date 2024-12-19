@@ -3,4 +3,4 @@
 </div>
 
 <br />
-<h6>Waguri !! ^^ - Rui -</h6>
+[![committers.top badge](https://user-badge.committers.top/philippines/ruingl.svg)](https://user-badge.committers.top/philippines/ruingl)
